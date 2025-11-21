@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_Kriss",
-    "path":"sprites/spr_Kriss/spr_Kriss.yy",
+    "name":"spr_Kriss_Bottom",
+    "path":"sprites/spr_Kriss_Bottom/spr_Kriss_Bottom.yy",
   },
   "spriteMaskId":null,
   "visible":true,

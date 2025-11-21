@@ -24,7 +24,10 @@
   "resources":[
     {"id":{"name":"Player_Kriss","path":"objects/Player_Kriss/Player_Kriss.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"spr_Kriss","path":"sprites/spr_Kriss/spr_Kriss.yy",},},
+    {"id":{"name":"spr_Kriss_Bottom","path":"sprites/spr_Kriss_Bottom/spr_Kriss_Bottom.yy",},},
+    {"id":{"name":"spr_Kriss_Left","path":"sprites/spr_Kriss_Left/spr_Kriss_Left.yy",},},
+    {"id":{"name":"spr_Kriss_Right","path":"sprites/spr_Kriss_Right/spr_Kriss_Right.yy",},},
+    {"id":{"name":"spr_Kriss_Top","path":"sprites/spr_Kriss_Top/spr_Kriss_Top.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
