@@ -24,7 +24,7 @@
   "resources":[
     {"id":{"name":"Player_Kriss","path":"objects/Player_Kriss/Player_Kriss.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},},
+    {"id":{"name":"spr_Kriss","path":"sprites/spr_Kriss/spr_Kriss.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
